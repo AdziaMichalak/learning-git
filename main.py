@@ -16,4 +16,6 @@ print("Hello to ja drugi programista")
 print("mam ochotę na pączka z różą")
 print("mam zagadkę: jak blondynki robią dżem?")
 print()
+print("Nie wiem")
+print("obierają pączki")
 
