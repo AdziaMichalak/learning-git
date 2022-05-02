@@ -12,3 +12,8 @@ lista2 = lista ["Warzywniak"]
 print(f"w sumie kupuję {len(lista1) + len(lista2)} produktów".capitalize())
 
 print("Hello to ja drugi programista")
+
+print("mam ochotę na pączka z różą")
+print("mam zagadkę: jak blondynki robią dżem?")
+print()
+
