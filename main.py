@@ -19,3 +19,5 @@ print()
 print("Nie wiem")
 print("obierają pączki")
 
+print("hello")
+print("dawno mnie tu nie było, więc nadrabiam zaległości")
